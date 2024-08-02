@@ -1,0 +1,47 @@
+baseURL: 'https://axel.town'
+languageCode: 'en-us'
+title: 'Axel 🏘️ Town'
+theme: "PaperMod"
+
+# Enable emoji support
+enableEmoji: true
+
+params:
+  # Theme settings
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  
+  # Your information
+  author: "Axel Ahmer"
+  description: "Computer Science Master's graduate sharing thoughts, insights, and projects"
+
+  # Customize home page
+  homeInfoParams:
+    Title: "👋 Howdy, stranger!"
+    Content: >
+      I'm Axel, A Data Engineer with a Masters in Artificial Intelligence. I'm intrigued by combinatorics, neural networks, logic programming, cognitive science, and chess! Here, I hope to occasionally share random thoughts, explain topics that interest me, and document some of my weird projects.
+  
+  # Social links
+  socialIcons:
+    - name: rss
+      url: "index.xml"
+    - name: github
+      url: "https://github.com/axelahmer"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/axelahmer"
+    - name: email
+      url: "mailto:mayor@axel.town"
+    
+menu:
+  main:
+    - identifier: bestbytest
+      name: bestbytest.net
+      url: https://bestbytest.net
+      weight: 1
+
+
+paginate: 10
