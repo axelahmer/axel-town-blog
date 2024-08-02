@@ -1,6 +1,6 @@
 baseURL: 'https://axel.town'
 languageCode: 'en-us'
-title: 'Axel 🏘️ Town'
+title: 'Axel Town'
 theme: "PaperMod"
 
 # Enable emoji support
@@ -17,13 +17,13 @@ params:
   
   # Your information
   author: "Axel Ahmer"
-  description: "Computer Science Master's graduate sharing thoughts, insights, and projects"
+  description: "Axel Ahmer's home on the internet"
 
   # Customize home page
   homeInfoParams:
-    Title: "👋 Howdy, stranger!"
+    Title: "Welcome! 🏘️"
     Content: >
-      I'm Axel, A Data Engineer with a Masters in Artificial Intelligence. I'm intrigued by combinatorics, neural networks, logic programming, cognitive science, and chess! Here, I hope to occasionally share random thoughts, explain topics that interest me, and document some of my weird projects.
+      I'm Axel, I've got a Masters in AI and currently work as a Data Engineer within the Australian Public Service - building data assets to help inform Australian public policy. I have a double undergraduate in Computer Science & Mathematics with Mechnaical Engineering, and a recently completed Masters in Artificial Intelligence. My interests routinely change, but revolve around: combinatorics, neural networks, logic programming, cognitive science, and chess (I even worked as a chess coach for 8 years). This website exists mostly so I have a platform to share random thoughts and explain topics that interest me, I also have a few weird projects that I work on that I might find time to share. Thanks for checking this place out.
   
   # Social links
   socialIcons:
